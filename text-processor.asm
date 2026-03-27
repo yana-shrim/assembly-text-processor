@@ -1,4 +1,12 @@
-                              .stack 100h
+; ============================================
+; Text Processing System (x86 Assembly)
+; Features:
+; - Character count
+; - Word count
+; - Most frequent character detection
+; - Text manipulation
+; ============================================
+.stack 100h
 .data
 Msg db "enter your text(up to 100 characters):$"
 MsgA db "number of characters:$"
