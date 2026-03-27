@@ -1,10 +1,15 @@
 ; ============================================
 ; Text Processing System (x86 Assembly)
+; --------------------------------------------
 ; Features:
 ; - Character count
 ; - Word count
 ; - Most frequent character detection
 ; - Text manipulation
+;
+; Description:
+; Processes user input and performs analysis
+; using low-level memory operations and DOS interrupts.
 ; ============================================
 .stack 100h
 .data
