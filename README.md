@@ -15,6 +15,7 @@ A low-level text processing application built using x86 Assembly language.
 
 ## Description
 This project demonstrates low-level programming skills, including memory handling, string processing, and direct interaction with system interrupts.
+This project was built from scratch without high-level libraries, focusing on performance and direct system interaction.
 
 ## Author
 yana shrim
